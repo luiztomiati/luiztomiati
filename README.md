@@ -1,6 +1,6 @@
 **`Desenvolvedor full stack`**
 
-Me chamo Luiz Fernando, apaixonado por tecnologia e desenvolvimento. Atuo com desenvolvimento web. Paralelamente, me aprofundo na área de dados, estudando BI, análise, modelagem e automações integrando código e inteligência de dados para criar soluções robustas e inteligentes. 
+Me chamo Luiz Fernando, apaixonado por tecnologia e desenvolvimento. Atuo com desenvolvimento web e continuo me aprofundando na área de dados, BI, análise, modelagem e automações integrando código e inteligência de dados para criar soluções robustas e inteligentes. 
 
 --- 
 
