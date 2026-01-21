@@ -1,83 +1,53 @@
-**`Desenvolvedor full stack`**
+<h2 align="center">💻 Olá, eu sou Luiz Tomiati</h2>
 
-Me chamo Luiz Fernando, apaixonado por tecnologia e desenvolvimento. Atuo com desenvolvimento web e continuo me aprofundando na área de dados, BI, análise, modelagem e automações integrando código e inteligência de dados para criar soluções robustas e inteligentes. 
+<p align="center">
+Desenvolvedor Web focado em <strong>Front-end (React)</strong> e <strong>Back-end (.NET)</strong>
+</p>
 
---- 
+---
 
-### 🚀 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-  />
+<p align="center">
+✨ “Aqueles que conseguem imaginar qualquer coisa podem criar o impossível.”  
+<br/>
+<em>— Alan Turing</em>
+</p>
 
+### 🚀 O que você encontra por aqui
+- Projetos **Web**
+- Estudos e experimentos com tecnologias web
+- Código focado em aprendizado e evolução contínua
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
   <img 
-    align="left" 
-    alt=".Net" 
-    title=".Net"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    src="https://github-readme-stats.vercel.app/api?username=LuizTomiati&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
   />
   <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQLServer" 
-    title="SQLServer"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizTomiati&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
   />
-  
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+</p>
 
+---
 
+### 🧩 Tecnologias
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35"/>
+</p>
+
+---
+
+### ⭐ Em destaque
+- Projetos **React** com foco em componentização
+- Integração via **APIs**
+- Aplicações web completas em evolução
