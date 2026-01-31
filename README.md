@@ -19,20 +19,6 @@ Desenvolvedor Web focado em <strong>Front-end (React)</strong> e <strong>Back-en
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuizTomiati&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizTomiati&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
-
----
-
 ### 🧩 Tecnologias
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35"/>
